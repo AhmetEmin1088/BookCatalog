@@ -6,8 +6,11 @@ It features offline access to favorite books, smooth navigation, and a clean use
 🛠️ Features
 
 🔍 Book Search: Find books using the Google Books API.
+
 📖 Book Details: View detailed information about each book, such as title, author, and description.
+
 ❤️ Favorite Books: Add books to your favorites list for easy access later.
+
 🚫 Offline Access: Saved favorite books are available offline via Room database.
 🧭 Navigation: Navigate seamlessly between pages with Jetpack Navigation.
 📉 Error Handling: Error messages and no-data states are displayed dynamically.
