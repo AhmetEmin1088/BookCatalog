@@ -3,6 +3,7 @@
 BookCatalog is a Kotlin-based Android app that lets users search, browse, and save their favorite books from the Google Books API. 
 It features offline access to favorite books, smooth navigation, and a clean user interface.
 
+
 🛠️ Features
 
 🔍 Book Search: Find books using the Google Books API.
@@ -16,6 +17,7 @@ It features offline access to favorite books, smooth navigation, and a clean use
 🧭 Navigation: Navigate seamlessly between pages with Jetpack Navigation.
 
 📉 Error Handling: Error messages and no-data states are displayed dynamically.
+
 
 🧰 Technologies Used
 
