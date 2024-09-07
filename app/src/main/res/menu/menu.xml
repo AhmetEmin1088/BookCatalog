@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favouriteBooksItem"
+        android:icon="@drawable/book_heart"
+        app:showAsAction="always"
+        android:title="My Favourites" />
+    <item
+        android:id="@+id/homePageItem"
+        android:icon="@drawable/home2"
+        app:showAsAction="always"
+        android:title="Home Page" />
+    <item
+        android:id="@+id/closeAppItem"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        app:showAsAction="always"
+        android:title="Close App" />
+
+</menu>
