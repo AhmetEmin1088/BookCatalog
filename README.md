@@ -20,11 +20,19 @@ It features offline access to favorite books, smooth navigation, and a clean use
 🧰 Technologies Used
 
 Kotlin: The main programming language for Android development.
+
 Room: Database for local data storage.
+
 Retrofit: REST API client for networking with Google Books API.
+
 Coroutines: For asynchronous operations.
+
 LiveData & ViewModel: Manage UI-related data and lifecycle-aware components.
+
 Glide: Efficient image loading library.
+
 Navigation Component: Simplified navigation between screens.
+
 KSP: Kotlin Symbol Processing for Room database integration.
+
 Secrets Gradle Plugin: Securely manage API keys and other secrets.
