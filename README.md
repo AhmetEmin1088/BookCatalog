@@ -1,4 +1,5 @@
 BookCatalog
+
 BookCatalog is an Android application built with Kotlin that allows users to search, browse, and manage their favorite books. 
 The app fetches book data from the internet, using the Google Books API, and saves it to a Room database for offline access. 
 The app follows the MVVM architecture and includes features like data persistence, a favorites list, and navigation between different sections of the app.
